@@ -1,3 +1,5 @@
+
+//------------------------MODO  OSCURO-----------------------------
 const btnRoger = document.querySelector("#roger");
 
 btnRoger.addEventListener("click", () => {
@@ -5,6 +7,7 @@ btnRoger.addEventListener("click", () => {
   btnRoger.classList.toggle("active");
 });
 
+// ----------------------LOGIN------------------------------
 
 const formulario = document.getElementById("formulario");
 
